@@ -110,5 +110,4 @@ But half believing that he is a beautiful jade, he refuses to be mediocre and as
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <br/>
-<p align="center">建设中</p>
 </div>
